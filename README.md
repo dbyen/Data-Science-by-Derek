@@ -6,6 +6,7 @@ I'm treating this as part self-study notes, part code snippets, part personal re
 Current topics covered:
 
 ### Analysis_and_Mini_Projects
+- Two or More Census Scraping 
 
 ### Coding_and_Engineering
 
