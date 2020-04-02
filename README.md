@@ -7,6 +7,7 @@ Current topics covered:
 
 ### Analysis_and_Mini_Projects
 - Two or More Census Scraping 
+- Podcast Analysis
 
 ### Coding_and_Engineering
 
